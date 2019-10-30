@@ -1,0 +1,176 @@
+/*#bstext {
+    margin: 0px auto 0px; /*заезжаем вверх на слайдер, на 99 пикселей*/
+ /*   background-color: #e6e6e673; /*если по каким то причинам фон картинка не отобразился, заливаем цветом*/
+ /*   background-image: url(91.jpg); /*делаем фон картинку*/
+ /*   background-repeat: repeat; /*повторяем картинку по вертикали и горизонтали*/
+ /*   z-index: 1; /*положение элемента*/
+ /*   padding: 0; /*убираем отступы*/
+/*}
+
+#bst {
+	margin: 0px auto 0px; /*заезжаем вверх на слайдер, на 99 пикселей*/
+  /* background-color: #e6e6e673; /*если по каким то причинам фон картинка не отобразился, заливаем цветом*/
+   /* background-image: url(91.jpg); /*делаем фон картинку*/
+   /* background-repeat: repeat; /*повторяем картинку по вертикали и горизонтали*/
+   /* z-index: 1; /*положение элемента*/
+   /* padding: 0; /*убираем отступы*/
+/*}
+
+ .box {
+        border: 1px solid #ccc;
+        padding: 10px;
+        border-radius: 5px;
+        font: 16px/24px Arial;
+        background: gray;
+        height: 200px;
+    }
+    
+    .adaptive_item {
+        /* background: red; */
+/*		border-width:2px !important;
+    }
+    
+    .adaptive_box {
+        margin-left: -8.33333333%;
+    }
+    
+    @media (max-width: 400px) {
+        .adaptive_box {
+            margin-left: 0;
+        }
+    }*/
+	.block {
+ /* height: 300px;*/
+ padding:0px;
+ margin: 0px 0px 0px 0px; /* сверху справа снизу слева*/
+}
+.no-gutter > [class*='col-'] {
+    padding-right:0;
+    padding-left:0;
+}
+	
+	
+	  /*  .box {
+        border: 1px solid #ccc;
+       /* padding: 10px;*/
+      /*   border-radius: 5px;
+        font: 16px/24px Arial;
+        background: gray;
+        height: 200px;
+		margin-left: 50%;
+    }
+    
+    .adaptive_item {
+        /* background: red; */
+	/*	border-width:2px !important;
+    }
+    
+    .adaptive_box { */
+      /* margin-left: -30%;*/
+	/*  top: 50%;
+		
+ /*   }
+    
+    @media (max-width: 767px) {
+        .adaptive_box {
+            margin-left: 0;
+			height: 50px;
+        }
+    } */
+	
+#bstext {
+	/*margin: -250px auto 0px; /*заезжаем вверх на слайдер, на 200 пикселей*/
+   /* background-color: #e6e6e673; /*если по каким то причинам фон картинка не отобразился, заливаем цветом*/
+    /* background-image: url(../img/wool-diagonal-for-light-background.png); /*делаем фон картинку*/ 
+    /* background-repeat: repeat; /*повторяем картинку по вертикали и горизонтали*/ 
+	/*border: 1px solid #C8A35F;
+    z-index: 1; /*положение элемента*/	
+    padding: 0; /*убираем отступы*/
+	/*position: relative; /* Абсолютное позиционирование */
+	text-align: center;
+	max-width:100%;
+  /*  bottom: 200px; /* Положение от нижнего края */
+	/*padding: 0px 0px 0px 0px;*/
+	    z-index: 22;
+    top: 7rem;
+    left: 0;
+    right: 0;
+	
+}
+
+
+.well {
+    /*background: #E6E6E6; /*заливка блока*/
+    color: #fff; /*цвет шрифта*/
+  /*  box-shadow: 0px 1px 7px #38545F; /*тени*/
+    position: relative; /*позиционирование*/
+	
+}
+p.p11 {
+   /* margin-bottom: 5px; /*задаем отступ*/
+    color: #fff; /*задаем цвет шрифта*/
+    font-size: 40px; /*размер шрифта*/
+	/*padding: 0px 0px 0px 50px; /* сверху справа снизу слева*/
+}
+p.p22 {
+    color: #fff; /*задаем цвет шрифта*/
+    font-size: 30px; /*размер шрифта*/
+}
+
+p.p12 {
+   /* margin-bottom: 5px; /*задаем отступ*/
+    color: black; /*задаем цвет шрифта*/
+    font-size: 40px; /*размер шрифта*/
+	/*padding: 0px 0px 0px 50px; /* сверху справа снизу слева*/
+}
+p.p21 {
+    color: black; /*задаем цвет шрифта*/
+    font-size: 30px; /*размер шрифта*/
+}
+p.p50 {
+    color: black; /*задаем цвет шрифта*/
+    font-size: 10px; /*размер шрифта*/
+}
+ /*.container-fluid {
+  width: 100%;
+  padding-right: 0px;
+  padding-left: 50px;
+  margin-right: 0px;
+  margin-left: 0px;
+}*/
+.container2{
+	background: #2F343A;
+	/*width:99%;*/
+	padding: 0px 250px 0px 0px; /* сверху справа снизу слева*/
+	max-width: 100%;
+}
+/*.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+ 
+}*/
+A {
+    text-decoration: none; /* Убирает подчеркивание для ссылок */
+	color: #fff;
+   } 
+A:hover { 
+    
+    color: #fff; 
+   }  
+   
+   
+ img.background {
+ /* min-height: 100%;*/
+ max-width:100%;
+ /* min-width: 640px;*/
+ /* width: 100%;*/
+  height: auto;
+  position: relative;
+  top: 0;
+  left: 0;
+
+}  
+
